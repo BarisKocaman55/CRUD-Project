@@ -1,6 +1,8 @@
 # Serenity
 Serenity Test Case
 
+![Image of CRUD](https://www.dorusomcutean.com/wp-content/uploads/2020/03/crud.jpg)
+
 # Project References for Layers
 
 1. Entities Layer => Core Layer
@@ -9,16 +11,16 @@ Serenity Test Case
 4. Business Layer => DataAccess and Entities Layers
 5. Web API => Business and Entities Layers
 
-#Project Packages and Versions
-**DataAccess**
+# Project Packages and Versions
+DataAccess
 - Microsoft.EntityFrameworkCore.SqlServer Version:2.2.6
 - Newtonsoft.Json Version:13.0.1
-**Business**
+Business
 - Autofac Version:4.9.4
 - Autofac.Extras.DynamicProxy Version:4.5.0
 - FluentValidation Version:8.5.0
 - Microsoft.AspNetCore.Http Version:2.2.2
-**Core**
+Core
 - Autofac.Extensions.DependencyInjection Version:4.4.0
 - Autofac.Extras.DynamicProxy Version:4.5.0
 - FluentValidation Version:8.5.0
