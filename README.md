@@ -1,6 +1,3 @@
-# Serenity
-Serenity Test Case
-
 ![Image of CRUD](https://www.dorusomcutean.com/wp-content/uploads/2020/03/crud.jpg)
 
 # Project References for Layers
